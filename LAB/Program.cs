@@ -11,6 +11,7 @@ namespace LAB
         static void Main(string[] args)
         {
             thu lai abc
+                thu lai lan nua
         }
     }
 }
